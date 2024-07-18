@@ -32,7 +32,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: jffh
-    reset: 1
+    reset: 0
     states: [ 简体, 繁體 ]
   - name: sbb_hint
     reset: 1 # 改成0默认关闭
